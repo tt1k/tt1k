@@ -13,8 +13,8 @@
 
 Student @ Nanjing University of Aeronautics and Astronautics of China
 
-- :pencil2: Objective-C / Swift / C++ / Dart
-- :hammer_and_pick: MacOS / Windows 10 / Ubuntu / VS Code
+- :construction_worker: Objective-C / Swift / C++ / Dart
+- :hammer_and_pick: MacOS / Windows 10 / Ubuntu
 
 ### More
 
