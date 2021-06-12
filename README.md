@@ -1,3 +1,5 @@
+<img align="right" width="80px" src="https://api.fakecoder.info/mi/rate.png"/>
+
 ### Hi, this is FakeCoder :wave:
 
 <a href="https://github.com/IcedOtaku">
