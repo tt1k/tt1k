@@ -4,7 +4,7 @@
 
 <a href="https://github.com/IcedOtaku">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=IcedOtaku&count_private=true&show_icons=true&icon_color=ffffff&bg_color=30,f2ffe6,e6ffff"
+  src="https://github-readme-stats.vercel.app/api?username=IcedOtaku&count_private=true&show_icons=true&bg_color=330,f2ffe6,e6ffff"
   title="IcedOtaku&#039;s GitHub Stats"
   align="right"
   width="60%"
