@@ -16,6 +16,8 @@ Student @ Nanjing University of Aeronautics and Astronautics of China
 - :construction_worker: Objective-C / Swift / C++ / Dart
 - :hammer_and_pick: MacOS / Windows 10 / Ubuntu
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IcedOtaku)
+
 ### More
 
 - **Homepage**: <https://fakecoder.info/>
