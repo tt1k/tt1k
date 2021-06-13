@@ -1,4 +1,4 @@
-<img align="right" width="80px" src="https://api.fakecoder.info/mi/rate.png?"/>
+<img align="right" width="80px" src="https://api.fakecoder.info/mi/heart.png"/>
 
 ### Hi, this is FakeCoder :wave:
 
