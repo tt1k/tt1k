@@ -1,5 +1,3 @@
-<img align="right" width="80px" src="https://api.fakecoder.info/mi/heart.png"/>
-
 ### Hi, this is FakeCoder :wave:
 
 <a href="https://github.com/IcedOtaku">
