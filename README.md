@@ -1,4 +1,4 @@
-### Hi, this is FakeCoder :wave:
+### see [tt1k.dev](https://tt1k.dev) for more
 
 <a href="https://github.com/tt1k">
 <img
@@ -9,13 +9,8 @@
 />
 </a>
 
-Student @ Nanjing University of Aeronautics and Astronautics of China
+Currently working on Maps in meituan.com
 
-- :construction_worker: Objective-C / Swift / C++ / Dart
-- :hammer_and_pick: MacOS / Windows 10 / Ubuntu
+Actively exploring backend techniques for the next stage
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tt1k)
-
-### More
-
-- **Homepage**: <https://fakecoder.info/>
